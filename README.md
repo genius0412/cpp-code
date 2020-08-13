@@ -19,3 +19,8 @@
 - Time Complexity (n log n)
 - Fast
 - Not common
+
+5. Insertion Sort
+- Time Complexity (n^2)
+- Slow
+- Never use it
