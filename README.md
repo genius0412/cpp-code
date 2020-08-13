@@ -1,21 +1,21 @@
 # C++ Sorting Algorithm
 
 1. STL Sort 
-- time Complexity (n log n ~ n^2)
-- easy to use
-- commonly used
+- Time Complexity (n log n ~ n^2)
+- Easy to use
+- Commonly used
 
 2. Merge Sort 
-- time Complexity (n log n)
-- fast
-- not common
+- Time Complexity (n log n)
+- Fast
+- Not common
 
 3. Selection Sort 
-- time Complexity (n^2)
-- slow
-- never use it
+- Time Complexity (n^2)
+- Slow
+- Never use it
 
 4. Heap Sort 
-- time Complexity (n log n)
-- fast
-- not common
+- Time Complexity (n log n)
+- Fast
+- Not common
