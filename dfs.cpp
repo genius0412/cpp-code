@@ -17,10 +17,10 @@ void input(){
 }
 void dfs(int node){
     printf("%d ", node);
-    vt[node] = 1;
 
     for(auto u: A[node]){
         if(vt[u]) continue;
+        vt[u] = 1;
         dfs(u);
     }
 }
