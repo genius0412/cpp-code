@@ -1,4 +1,7 @@
-# C++ Sorting Algorithm
+# C++ Algorithm
+
+
+### Sort
 
 1. STL Sort 
 - Time Complexity (n log n ~ n^2)
@@ -24,3 +27,9 @@
 - Time Complexity (n^2)
 - Slow
 - Never use it
+
+
+### Graph Navigation
+
+1. DFS
+
